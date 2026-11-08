@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qw13579ee-sketch.github.io/yuan-handmade-site/sitemap.xml
